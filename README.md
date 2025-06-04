@@ -149,3 +149,6 @@ Yangyan Li, Rui Bu, Mingchao Sun, Wei Wu, Xinhan Di, Baoquan Chen
 
 If you encounter any problems while using or reproducing this project, please [submit an issue](https://github.com/luost26/diffusion-point-cloud/issues) or contact the author.
 
+## Dataset
+
+The dataset is in https://drive.google.com/drive/folders/1Su0hCuGFo1AGrNb_VMNnlF7qeQwKjfhZ

@@ -7,7 +7,7 @@ CATEGORIES=("car" "airplane" "bag" "table")
 for category in "${CATEGORIES[@]}"
 do
   echo "Training for category: $category"
-  python train_gen.py --categories "$category" --max_iters 100000 --test_freq 1000
+  python train_gen.py --categories "$category" --max_iters 20000 --test_freq 2000
 done
 
 echo "All categories have been trained." 
